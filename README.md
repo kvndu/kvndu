@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavindu Heshan</h1>
-<h3 align="center">software engineer Undergraduate From Sri Lanka.</h3>
+<h3 align="center">Software Engineer Undergraduate From Sri Lanka.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvndu&label=Profile%20views&color=0e75b6&style=flat" alt="kvndu" /> </p>
 
